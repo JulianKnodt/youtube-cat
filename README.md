@@ -2,6 +2,14 @@
 
 _Please clone repo for usage._
 
+## Purpose
+
+The intended purpose of this project was to create personal playlists
+from youtube videos, and combine them into one mp3.
+
+It was intended to use a highly readable format, which anyone could use.
+
+
 ## Usage
 ```
 $ python cat.py <*.csv>
